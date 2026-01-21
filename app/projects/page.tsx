@@ -85,10 +85,10 @@ export default function ProjectsPage() {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background border-b-2 border-foreground">
         <div className="max-w-4xl mx-auto px-4 py-3 md:py-4 flex justify-between items-center">
-          <a href="/" className="text-xl md:text-2xl font-black tracking-wider hover:underline">MAYANK</a>
+          <a href="./" className="text-xl md:text-2xl font-black tracking-wider hover:underline">Asish</a>
           <div className="flex gap-2 md:gap-4 text-xs md:text-sm font-semibold">
-            <a href="/" className="uppercase hover:underline">Home</a>
-            <a href="/projects" className="uppercase hover:underline border-b-2 border-foreground">Projects</a>
+            <a href="./" className="uppercase hover:underline">Home</a>
+            <a href="./projects" className="uppercase hover:underline border-b-2 border-foreground">Projects</a>
           </div>
         </div>
       </nav>
