@@ -60,9 +60,9 @@ export default function Home() {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background border-b-2 border-foreground">
         <div className="max-w-4xl mx-auto px-4 py-3 md:py-4 flex justify-between items-center">
-          <h1 className="text-xl md:text-2xl font-black tracking-wider">MAYANK</h1>
+          <h1 className="text-xl md:text-2xl font-black tracking-wider">Asish</h1>
           <div className="flex gap-2 md:gap-4 text-xs md:text-sm font-semibold">
-            <a href="/" className="uppercase hover:underline">Home</a>
+            <a href="./" className="uppercase hover:underline">Home</a>
             <a href="projects" className="uppercase hover:underline">Projects</a>
           </div>
         </div>
@@ -75,7 +75,7 @@ export default function Home() {
             <div className="flex-1">
               <div className="mb-6 md:mb-8">
                 <span className="text-xs md:text-sm font-black tracking-widest uppercase text-muted-foreground">Welcome to</span>
-                <h2 className="text-2xl sm:text-3xl md:text-6xl font-black tracking-tighter mt-2 mb-2">MAYANK</h2>
+                <h2 className="text-2xl sm:text-3xl md:text-6xl font-black tracking-tighter mt-2 mb-2">Asish</h2>
                 <div className="w-12 md:w-16 h-1 bg-foreground"></div>
               </div>
               <p className="text-xs sm:text-sm md:text-base leading-relaxed mb-4 md:mb-6 font-medium max-w-xl">
