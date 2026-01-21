@@ -63,7 +63,7 @@ export default function Home() {
           <h1 className="text-xl md:text-2xl font-black tracking-wider">MAYANK</h1>
           <div className="flex gap-2 md:gap-4 text-xs md:text-sm font-semibold">
             <a href="/" className="uppercase hover:underline">Home</a>
-            <a href="/projects" className="uppercase hover:underline">Projects</a>
+            <a href="projects" className="uppercase hover:underline">Projects</a>
           </div>
         </div>
       </nav>
